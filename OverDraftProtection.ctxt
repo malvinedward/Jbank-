@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=customer\ amount\ saving
+comment0.target=OverDraftProtection(Customer,\ double,\ Savings)
+comment0.text=\r\n\ Constructor\ OverDraftProtection\r\n
+comment1.params=
+comment1.target=void\ feeAssessment()
+comment1.text=\r\n\ untuk\ fee\ assesment\r\n
+comment2.params=amount
+comment2.target=void\ withdraw(double)
+comment2.text=\r\n\ exception\ amount\ overdrawn\r\n
+numComments=3

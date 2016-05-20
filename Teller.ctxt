@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ Main\ Function\r\n\ \r\n
+comment1.params=
+comment1.target=Teller()
+comment1.text=\r\n\ Method\ constructor\ Teller\r\n
+comment2.params=fname\ lname\ dob
+comment2.target=void\ createNewCustomer(java.lang.String,\ java.lang.String,\ java.util.Date)
+comment2.text=\r\n\ Method\ create\ customer\ from\ teller\ class\r\n\ @param\ fname\ the\ name\ of\ customer\r\n\ @param\ lname\ last\ name\ of\ customer\r\n\ @param\ dob\ consists\ their\ born\ date\r\n
+comment3.params=custId
+comment3.target=Customer\ getCustomer(int)
+comment3.text=\r\n\ Method\ getCustomer\ untuk\ iterasi\ sorted\ set\r\n\ @param\ custId\r\n
+comment4.params=a\ id
+comment4.target=Customer\ getCustomer2(java.util.SortedSet,\ int)
+comment4.text=\r\n\ Method\ getCustomer2\ untuk\ iterasi\ sorted\ set\r\n
+numComments=5

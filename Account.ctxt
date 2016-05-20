@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=ID
+comment0.target=java.lang.String\ toString(int)
+comment0.text=\r\n\ Method\ overriding\ toString\ function\r\n\ @param\ ID\ akun\r\n
+comment1.params=amount
+comment1.target=boolean\ deposit(double)
+comment1.text=\r\n\ Method\ deposit\ untuk\ tambah\ uang\ ke\ akun\r\n\ @param\ amount\ tipe\ data\ double\r\n
+comment2.params=
+comment2.target=double\ getBalance()
+comment2.text=\r\n\ Method\ untuk\ mengambil\ balance\ akun\r\n\ @return\ balance\ akun\r\n
+comment3.params=
+comment3.target=java.lang.String\ getId()
+comment3.text=\r\n\ Method\ untuk\ mengambil\ ID\ akun\r\n\ @return\ ID\ akun\r\n
+comment4.params=amount
+comment4.target=void\ setBalance(double)
+comment4.text=\r\n\ Method\ untuk\ memasukkan\ balance\ ke\ akun\r\n\ @param\ amount\ tipe\ data\ double\r\n
+comment5.params=amount
+comment5.target=void\ withdraw(double)
+comment5.text=\r\n\ Method\ withdraw\ untuk\ ambil\ uang\ dari\ akun\r\n\ @param\ amount\ tipe\ data\ double\r\n
+comment6.params=balance\ rate\ compound\ period
+comment6.target=double\ futureBalance(double,\ double,\ double,\ double)
+comment6.text=\r\n\ \r\n
+numComments=7
